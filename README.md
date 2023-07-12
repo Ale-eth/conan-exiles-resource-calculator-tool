@@ -1,0 +1,1 @@
+# conan-exiles-resource-calculator-tool
